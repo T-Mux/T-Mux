@@ -1,6 +1,6 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 🌈
 
-Welcome to my home page, I'm T-Mux(x7ARM)
+Welcome to my home page, I'm T-Mux
 
 - iOS developer, focus on developing my first app
 - Frequently browse excellent projects on github

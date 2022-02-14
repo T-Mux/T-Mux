@@ -16,8 +16,4 @@
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Mux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![T-Mux's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Mux&show_icons=true&theme=tokyonight)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T-Mux)](https://git.io/streak-stats)

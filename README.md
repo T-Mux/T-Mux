@@ -2,7 +2,7 @@
 
 - :star2: Welcome! This is T-Mux's homepage.
 
-- :newspaper: My blog address: <a href="0x7fff.com" target="_blank">0x7fff.com</a>
+- :newspaper: My blog address: <a href="https://0x7fff.com" target="_blank">0x7fff.com</a>
 
 - :hammer: Was an iOS Developer, production: XConvertor(2018)
 

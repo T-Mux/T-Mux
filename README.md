@@ -2,7 +2,7 @@
 
 - :star2: Welcome! This is T-Mux's homepage.
 
-- :newspaper: My blog address: TBD
+- :newspaper: My blog address: TBC
 
 - :hammer: Was an iOS Developer, production: XConvertor(2018)
 

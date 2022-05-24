@@ -2,9 +2,9 @@
 
 - :star2: Welcome! This is T-Mux's homepage.
 
-- :newspaper: My blog address: [T-Mux's Studio](https://t-mux.github.io)
+- :newspaper: Blog address: [T-Mux's Studio](https://t-mux.github.io)
 
-- :hammer: Was an iOS Developer, production: XConvertor(2018)
+- :hammer: iOS Developer, production: XConvertor(2018)
 
 - :ballot_box_with_check: On the way back to code.
 

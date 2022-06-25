@@ -1,11 +1,5 @@
 ## Info
 
-- :star2: Welcome! This is T-Mux's homepage.
-
-- :newspaper: Blog address: [T-Mux's Studio](https://t-mux.github.io)
-
-----
-
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)

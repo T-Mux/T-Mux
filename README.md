@@ -4,10 +4,6 @@
 
 - :newspaper: Blog address: [T-Mux's Studio](https://t-mux.github.io)
 
-- :hammer: iOS Developer, production: XConvertor(2018)
-
-- :ballot_box_with_check: On the way back to code.
-
 ----
 
 
